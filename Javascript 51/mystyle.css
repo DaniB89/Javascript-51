@@ -1,0 +1,9 @@
+body{
+    font-family: arial;
+}
+.alert-error{
+    color: red;
+}
+#number{
+    font-size: 50px;
+}
